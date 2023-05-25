@@ -50,6 +50,9 @@ body {
     color: #9297a4;
     padding: 3% 0;
 }
+footer {
+    text-align: center;
+}
 @media (max-width: 800px) {
     .big-card {
         height: 100%;
