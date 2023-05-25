@@ -49,20 +49,17 @@ body {
 .text p {
     color: #9297a4;
     padding: 3% 0;
-}
-footer {
+}   
+.attribution {
+    font-size: 12px;
     text-align: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
 }
 @media (max-width: 800px) {
     .big-card {
         height: 100%;
         margin: 5% auto;
-    }
-    /*footer {
-        width: 90%;
-        margin: auto 10%;
-    }*/
-    p, .attribution {
-        text-align: center;
     }
 }
